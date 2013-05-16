@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jonas Nicklas"]
-  s.date = Date.today.to_s
+  s.date = '2013-05-15'
   s.description = %q{Templater has the ability to both copy files from A to B and also to render templates using ERB. Templater consists of four parts:
 
 - Actions (File copying routines, templates generation and directories creation routines).
